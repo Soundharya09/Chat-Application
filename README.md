@@ -19,4 +19,4 @@ The project also integrates **data structures and algorithms (DSA)** concepts to
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/realtime-chat-app.git
+   git clone https://github.com/Soundharya09/realtime-chat-app.git
